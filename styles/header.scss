@@ -19,8 +19,9 @@ header {
       color: yellow;
       font-family:'Righteous', 'cursive';
       font-weight:600;
-      font-size:5em;
+      font-size:6em;
       grid-column-start: 2;
+      grid-column-end:4;
       grid-row-start: 3;
       text-shadow:4px 4px black;
     }
