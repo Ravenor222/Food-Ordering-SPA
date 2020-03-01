@@ -1,7 +1,7 @@
 
-###                DacMonalds Food Ordering SPA              ###
+###           On the go! Food Ordering SPA        
 
-
+![](public/images/onthego1.gif)
 
 
 
